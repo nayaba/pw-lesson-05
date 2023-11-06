@@ -113,3 +113,5 @@ console.log("Is the force strong with this one? " + (isForceSensitive ? "Yes" : 
 See what happens when you change the values. What if `midichlorianCount` was `14000`?
 
 Remember, the best way to learn is to code, make mistakes, debug, and code some more. Have fun with it, and may the data types be with you!
+
+[Back to the Wiki](https://github.com/nayaba/pw-wiki)
