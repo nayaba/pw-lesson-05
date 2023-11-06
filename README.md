@@ -1,3 +1,5 @@
+![js-love](https://github.com/nayaba/pw-lesson-05/assets/9198401/b870887c-15d3-40e4-a14d-65aacf0ae7f7)
+
 Alright, let's talk about one of the building blocks of JavaScript (and really, any programming language): data types. You can think of data types like the different kinds of ingredients in a kitchen. Each one has its own purpose and use in recipes—or in our case, in code. So, let's get comfy and dive into the JavaScript pantry to see what we've got!
 
 ### 1. The Basics: Primitive Data Types
