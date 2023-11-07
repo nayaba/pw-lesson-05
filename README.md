@@ -24,7 +24,7 @@ let age = 200; // No quotes means it's a number
 let price = 19.99; // Yep, decimals are cool too
 ```
 
-In JavaScript, there's no difference between integers and floats—they're all just 'number' types.
+In JavaScript, there's no difference between integers and floats (aka decimal points)—they're all just 'number' types.
 
 #### Boolean
 Booleans are the yes-or-no, true-or-false, on-or-off of the data types. There are only two possible values:
